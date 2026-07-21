@@ -1,1 +1,8 @@
-{}
+{"books": [
+  {"phase": "1_erstentdecker", "title": "Duden: Zi-Za-Zappelfinger Mein erstes Fingerspielbuch", "preis": 5.99, "hauptbuch": true, "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784627445/1_02_202607.avif"},
+  {"phase": "1_erstentdecker", "title": "Mein erstes Guckloch-Fühlbuch: Kleiner Hase, wo bist du?", "preis": 10, "hauptbuch": false, "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784624776/1_01_20260702.jpg"},
+  {"phase": "1_erstentdecker", "title": "Erstes Lernen Fühl-Leporello: Bauernhof", "preis": 9, "hauptbuch": false, "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784621882/1_01_20260703.jpg"},
+  {"phase": "2_weltbeobachter", "title": "Wir fahren weg! Das Ferien-Wimmelbuch", "preis": 14, "hauptbuch": false, "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784621820/2_01_20260702.jpg"},
+  {"phase": "2_weltbeobachter", "title": "All die Sachen, die wir machen: Geschichten vom Großwerden", "preis": 10, "hauptbuch": true, "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784566375/2_01_20260701.webp"},
+  {"phase": "2_weltbeobachter", "title": "Komm, wir fahren Zug", "preis": 14, "hauptbuch": false, "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784566387/2_01_20260704.webp"}
+]}
