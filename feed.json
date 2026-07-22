@@ -1,12 +1,42 @@
 {
   "phase1_erstentdecker": {
-    "hauptbuch": {"title": "Duden: Zi-Za-Zappelfinger...", "preis": 5.99, "url": "..."},
-    "buch2": {"title": "Mein erstes Guckloch-Fühlbuch...", "preis": 10, "url": "..."},
-    "buch3": {"title": "Erstes Lernen Fühl-Leporello...", "preis": 9, "url": "..."}
+    "hauptbuch": {
+      "title": "Duden: Zi-Za-Zappelfinger Mein erstes Fingerspielbuch",
+      "beschreibung": "Fingerspiele für die Kleinsten. In diesem Fingerspielbuch für Kinder ab 12 Monaten können Eltern im Buch aktiv werden und die kurzen Tierreime mit ihren Finger nachspielen. Jede Doppelseite hat Löcher, um die Finger hindurchzustecken. So ist jede Seite eine Bühne auf der mal ein Marienkäfer flattert oder ein Teddybär in die Hände klatscht. Die niedlichen Tierfiguren werden mit den Fingern zum Leben erweckt. Eine ideale Beschäftigung für die Allerkleinsten!",
+      "preis": 5.99,
+      "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784627445/1_02_202607.avif"
+    },
+    "buch2": {
+      "title": "Mein erstes Guckloch-Fühlbuch: Kleiner Hase, wo bist du?",
+      "beschreibung": "Wer hilft mit bei der Suche nach dem kleinen Hasen? Ein Buch, was das aktive Suchen, Klappen und auch noch Fühlen kombiniert. Wenn das nicht ankommt, wüsste ich nicht was!",
+      "preis": 10,
+      "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784624776/1_01_20260702.jpg"
+    },
+    "buch3": {
+      "title": "Erstes Lernen Fühl-Leporello: Bauernhof",
+      "beschreibung": "Fühl-Leporello zum Aufklappen und Aufstellen (77 cm lang), kein flaches Bilderbuch: Bauernhof-Motive als realistische Fotos (Ferkel, Traktor, Schaf & Co.), dazu 11 Fühlelemente zum Anfassen. Funktioniert nicht nur ganz frisch, sondern auch noch gut bei einem 12 Monate alten Kind, da die Kinder gerne das Buch selber aufstellen!",
+      "preis": 9,
+      "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784621882/1_01_20260703.jpg"
+    }
   },
   "phase2_weltbeobachter": {
-    "hauptbuch": {"title": "All die Sachen, die wir machen...", "preis": 10, "url": "..."},
-    "buch2": {"title": "Wir fahren weg!...", "preis": 14, "url": "..."},
-    "buch3": {"title": "Komm, wir fahren Zug", "preis": 14, "url": "..."}
+    "hauptbuch": {
+      "title": "All die Sachen, die wir machen: Geschichten vom Großwerden",
+      "beschreibung": "Vier kurze relatierbare Alltagsgeschichten aus dem Leben der Kleinsten: einkaufen, im Park spazieren, das Abendritual vorm Schlafengehen.",
+      "preis": 10,
+      "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784566375/2_01_20260701.webp"
+    },
+    "buch2": {
+      "title": "Wir fahren weg! Das Ferien-Wimmelbuch",
+      "beschreibung": "Es sind Ferien und die Familien aus diesem Wimmelbuch fahren ans Meer. So unterschiedlich wie die Menschen und Familien in diesem Buch, so sind auch ihre Reisevorlieben. Henry und sein Opa sind mit dem Wohnwagen gekommen und freuen sich darauf, die Natur zu erkunden. Tom und seine Mutter hingegen verbringen die Ferien am liebsten mit der Nase in einem Buch. Auf den detailreichen Illustrationen gibt es für kleine Kinder viele tolle diverse Charaktere und Urlaubsaktivitäten zu entdecken.",
+      "preis": 14,
+      "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784621820/2_01_20260702.jpg"
+    },
+    "buch3": {
+      "title": "Komm, wir fahren Zug",
+      "beschreibung": "Interaktives Pappbilderbuch mit stabilen Schiebern und Drehscheiben: der Zug fährt durch Tunnel, über Berge und Täler. Gereimter Text zum Mitmachen, fördert nebenbei die Feinmotorik.",
+      "preis": 14,
+      "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784566387/2_01_20260704.webp"
+    }
   }
 }
