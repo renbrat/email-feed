@@ -1,42 +1,89 @@
 {
-  "phase1_erstentdecker": {
+  "phase1": {
     "hauptbuch": {
-      "title": "Duden: Zi-Za-Zappelfinger Mein erstes Fingerspielbuch",
-      "beschreibung": "Fingerspiele für die Kleinsten. In diesem Fingerspielbuch für Kinder ab 12 Monaten können Eltern im Buch aktiv werden und die kurzen Tierreime mit ihren Finger nachspielen. Jede Doppelseite hat Löcher, um die Finger hindurchzustecken. So ist jede Seite eine Bühne auf der mal ein Marienkäfer flattert oder ein Teddybär in die Hände klatscht. Die niedlichen Tierfiguren werden mit den Fingern zum Leben erweckt. Eine ideale Beschäftigung für die Allerkleinsten!",
-      "preis": 5.99,
-      "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784627445/1_02_202607.jpg"
+      "book_id": "duden-zi-za-zappelfinger",
+      "titel": "Duden: Zi-Za-Zappelfinger – Mein erstes Fingerspielbuch",
+      "beschreibung": "Durch Löcher in jeder Doppelseite steckt man die Finger durch und spielt die kurzen Tierreime direkt mit – mal flattert ein Marienkäfer, mal klatscht ein Teddybär in die Hände. In meiner Erfahrung kommen Bücher mit Zappelfinger in diesem Alter immer gut an.",
+      "price_display": "5,99 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase1_3_duden-zi-za-zappelfinger_tafrej.jpg",
+      "reifegrad": "3_spät",
+      "gebraucht": false
     },
-    "buch2": {
-      "title": "Mein erstes Guckloch-Fühlbuch: Kleiner Hase, wo bist du?",
-      "beschreibung": "Wer hilft mit bei der Suche nach dem kleinen Hasen? Ein Buch, was das aktive Suchen, Klappen und auch noch Fühlen kombiniert. Wenn das nicht ankommt, wüsste ich nicht was!",
-      "preis": 10,
-      "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784624776/1_01_20260702.jpg"
+    "alternative_1": {
+      "book_id": "bauernhof-das-ferkel",
+      "titel": "Erstes Lernen Fühl-Leporello: Bauernhof",
+      "beschreibung": "Für die Jüngsten setze ich bewusst auf echte Fotos statt gezeichnete Tiere, weißer Hintergrund, ein Gegenstand pro Seite – so fällt das Erkennen leichter, ohne Ablenkung durch zu viele Reize. Das Buch kann man ausklappen, womit die Kleinen gerne auch dann spielen.",
+      "price_display": "9,00 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase1_1_bauernhof-das-ferkel_n0cabw.jpg",
+      "reifegrad": "1_früh",
+      "gebraucht": false
     },
-    "buch3": {
-      "title": "Erstes Lernen Fühl-Leporello: Bauernhof",
-      "beschreibung": "Fühl-Leporello zum Aufklappen und Aufstellen (77 cm lang), kein flaches Bilderbuch: Bauernhof-Motive als realistische Fotos (Ferkel, Traktor, Schaf & Co.), dazu 11 Fühlelemente zum Anfassen. Funktioniert nicht nur ganz frisch, sondern auch noch gut bei einem 12 Monate alten Kind, da die Kinder gerne das Buch selber aufstellen!",
-      "preis": 9,
-      "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784621882/1_01_20260703.jpg"
+    "alternative_2": {
+      "book_id": "kleiner-hase-wo-bist-du",
+      "titel": "Mein erstes Guckloch-Fühlbuch: Kleiner Hase, wo bist du?",
+      "beschreibung": "Ein Klapp-, Such- und Fühlbuch in einem. Der kleine Hase versteckt sich im Beet zwischen den Karotten – unter einer Klappe wartet ein weiches Fell zum Fühlen. Klappenbücher sind in diesem Alter motorisch noch richtig spannend – das Öffnen und Entdecken zählt fast mehr als die Geschichte selbst.",
+      "price_display": "10,00 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase1_2_kleiner-hase-wo-bist-du_bhz3dp.jpg",
+      "reifegrad": "2_mittel",
+      "gebraucht": false
     }
   },
-  "phase2_weltbeobachter": {
+  "phase2": {
     "hauptbuch": {
-      "title": "All die Sachen, die wir machen: Geschichten vom Großwerden",
-      "beschreibung": "Vier kurze relatierbare Alltagsgeschichten aus dem Leben der Kleinsten: einkaufen, im Park spazieren, das Abendritual vorm Schlafengehen.",
-      "preis": 10,
-      "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784566375/2_01_20260701.jpg"
+      "book_id": "all-die-sachen-die-wir-machen",
+      "titel": "All die Sachen, die wir machen: Geschichten vom Großwerden",
+      "beschreibung": "Vier kurze Geschichten aus dem Alltag von Kleinkindern – Zähneputzen, Aufräumen, kleine Momente des Großwerdens. Mir gefällt an diesem Buch besonders, dass echte Kinder gezeigt werden statt vermenschlichter Tiere – gerade für diese Altersgruppe ist das im deutschen Buchmarkt selten, dabei können Kinder sich hier direkt wiedererkennen.",
+      "price_display": "10,00 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase2_1_all-die-sachen-die-wir-machen_rqpbdm.jpg",
+      "reifegrad": "1_früh",
+      "gebraucht": false
     },
-    "buch2": {
-      "title": "Wir fahren weg! Das Ferien-Wimmelbuch",
-      "beschreibung": "Es sind Ferien und die Familien aus diesem Wimmelbuch fahren ans Meer. So unterschiedlich wie die Menschen und Familien in diesem Buch, so sind auch ihre Reisevorlieben. Henry und sein Opa sind mit dem Wohnwagen gekommen und freuen sich darauf, die Natur zu erkunden. Tom und seine Mutter hingegen verbringen die Ferien am liebsten mit der Nase in einem Buch. Auf den detailreichen Illustrationen gibt es für kleine Kinder viele tolle diverse Charaktere und Urlaubsaktivitäten zu entdecken.",
-      "preis": 14,
-      "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784621820/2_01_20260702.jpg"
+    "alternative_1": {
+      "book_id": "komm-wir-fahren-zug",
+      "titel": "Komm, wir fahren Zug",
+      "beschreibung": "Ein aktives Pappbilderbuch mit großen Schiebern für Kinderhände. Zug fahren gehört zu den Themen, die nie aus der Mode kommen – und die großen Schieber laden zum Mitmachen ein statt nur zuzuschauen.",
+      "price_display": "14,00 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase2_2_komm-wir-fahren-zug_h111ny.jpg",
+      "reifegrad": "2_mittel",
+      "gebraucht": false
     },
-    "buch3": {
-      "title": "Komm, wir fahren Zug",
-      "beschreibung": "Interaktives Pappbilderbuch mit stabilen Schiebern und Drehscheiben: der Zug fährt durch Tunnel, über Berge und Täler. Gereimter Text zum Mitmachen, fördert nebenbei die Feinmotorik.",
-      "preis": 14,
-      "url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1784566387/2_01_20260704.jpg"
+    "alternative_2": {
+      "book_id": "wir-fahren-weg-ferien-wimmelbuch",
+      "titel": "Wir fahren weg! Das Ferien-Wimmelbuch",
+      "beschreibung": "Thematisch passend zum Sommer: ein Wimmelbuch rund um den Familienurlaub, mit vielen Details zum Entdecken und ganz unterschiedlichen Familien. Wimmelbücher in dieser Komplexität funktionieren aus meiner Erfahrung erst richtig, wenn Kinder anfangen, Zusammenhänge zu suchen statt nur Bilder anzuschauen – deshalb würde ich es eher für ein Kind empfehlen, das in dieser Phase schon etwas weiter ist.",
+      "price_display": "14,00 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase2_3_wir-fahren-weg-ferien-wimmelbuch_tto5e9.jpg",
+      "reifegrad": "3_spät",
+      "gebraucht": false
+    }
+  },
+  "phase5": {
+    "hauptbuch": {
+      "book_id": "michel-aus-loenneberga",
+      "titel": "Michel aus Lönneberga",
+      "beschreibung": "Ein Junge mit ausgesprochen eigenem Kopf, der andauernd neue, wilde Ideen hat: Er zieht seine Schwester an der Fahnenstange hoch, gibt der Lehrerin einen Kuss oder steckt seinen Kopf in die Suppenschüssel, bis er festklemmt. Ein echter, menschlicher Charakter mit Ecken und Kanten – genau die Art Figur, die im Gedächtnis bleibt. Der Text ist deutlich umfangreicher als bei den anderen Büchern hier, was mehr Konzentration verlangt – lässt sich aber gut in mehreren Etappen vorlesen, Abend für Abend ein Stück weiter.",
+      "price_display": "15,00 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase5_3_michel-aus-loenneberga_vrvrnz.jpg",
+      "reifegrad": "3_spät",
+      "gebraucht": false
+    },
+    "alternative_1": {
+      "book_id": "ich-und-meine-gefuehle",
+      "titel": "Ich und meine Gefühle",
+      "beschreibung": "Das Buch ist mittlerweile in der 6. Auflage – seit 2011 im Programm und offensichtlich zeitlos. Große, klare Illustrationen zeigen die Gefühlswelt eines Kindes, ohne sie in Tierfiguren zu verpacken oder in vielen Sätzen zu erklären – das Gefühl zeigt sich vor allem im Bild, dazu jeweils nur ein kurzer Text. Mir gefällt dieser pragmatische, direkte Zugang zu einem Thema, das in Kinderbüchern schnell überladen wirkt.",
+      "price_display": "10,00 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase5_1_ich-und-meine-gefuehle_lx9hta.jpg",
+      "reifegrad": "1_früh",
+      "gebraucht": true
+    },
+    "alternative_2": {
+      "book_id": "die-sonne-nervt",
+      "titel": "Die Sonne nervt",
+      "beschreibung": "Lena kann die Sonne nicht ausstehen – wegen ihr muss sie sich eincremen, und das Eis schmilzt viel zu schnell. Dann kommt die Sonnenfinsternis: Es wird dunkler und dunkler, bis die Strahlen langsam zurückkommen und Lenas Nase kitzeln. Erzählt aus Lenas eigener Perspektive, erklärt das Buch nebenbei, was bei einer Sonnenfinsternis passiert. Am Ende hat sich für Lena etwas verschoben – die Sonne, die sie eben noch nervte, sieht sie plötzlich mit anderen Augen.",
+      "price_display": "15,00 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase5_2_die-sonne-nervt_ckgxvq.jpg",
+      "reifegrad": "2_mittel",
+      "gebraucht": false
     }
   }
 }
