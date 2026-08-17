@@ -55,7 +55,8 @@
   "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1786970779/phase2_3_feuerwehr-wimmelbuch_qkwyso.jpg",
   "reifegrad": "3_spät",
   "gebraucht": false
-  },
+    }
+},
   "phase5": {
     "hauptbuch": {
       "book_id": "michel-aus-loenneberga",
