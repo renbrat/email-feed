@@ -1,0 +1,89 @@
+{
+  "phase1": {
+    "hauptbuch": {
+      "book_id": "duden-zi-za-zappelfinger",
+      "titel": "Duden: Zi-Za-Zappelfinger – Mein erstes Fingerspielbuch",
+      "beschreibung": "Durch Löcher in jeder Doppelseite steckt man die Finger durch und spielt die kurzen Tierreime direkt mit – mal flattert ein Marienkäfer, mal klatscht ein Teddybär in die Hände. In meiner Erfahrung kommen Bücher mit Zappelfinger in diesem Alter immer gut an.",
+      "price_display": "5,99 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase1_3_duden-zi-za-zappelfinger_tafrej.jpg",
+      "reifegrad": "3_spät",
+      "gebraucht": false
+    },
+    "alternative_1": {
+      "book_id": "bauernhof-das-ferkel",
+      "titel": "Erstes Lernen Fühl-Leporello: Bauernhof",
+      "beschreibung": "Für die Jüngsten setze ich bewusst auf echte Fotos statt gezeichnete Tiere, weißer Hintergrund, ein Gegenstand pro Seite – so fällt das Erkennen leichter, ohne Ablenkung durch zu viele Reize. Das Buch kann man ausklappen, womit die Kleinen gerne auch dann spielen.",
+      "price_display": "9,00 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase1_1_bauernhof-das-ferkel_n0cabw.jpg",
+      "reifegrad": "1_früh",
+      "gebraucht": false
+    },
+    "alternative_2": {
+      "book_id": "kleiner-hase-wo-bist-du",
+      "titel": "Mein erstes Guckloch-Fühlbuch: Kleiner Hase, wo bist du?",
+      "beschreibung": "Ein Klapp-, Such- und Fühlbuch in einem. Der kleine Hase versteckt sich im Beet zwischen den Karotten – unter einer Klappe wartet ein weiches Fell zum Fühlen. Klappenbücher sind in diesem Alter motorisch noch richtig spannend – das Öffnen und Entdecken zählt fast mehr als die Geschichte selbst.",
+      "price_display": "10,00 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase1_2_kleiner-hase-wo-bist-du_bhz3dp.jpg",
+      "reifegrad": "2_mittel",
+      "gebraucht": false
+    }
+  },
+  "phase2": {
+    "hauptbuch": {
+      "book_id": "all-die-sachen-die-wir-machen",
+      "titel": "All die Sachen, die wir machen: Geschichten vom Großwerden",
+      "beschreibung": "Vier kurze Geschichten aus dem Alltag von Kleinkindern – Zähneputzen, Aufräumen, kleine Momente des Großwerdens. Mir gefällt an diesem Buch besonders, dass echte Kinder gezeigt werden statt vermenschlichter Tiere – gerade für diese Altersgruppe ist das im deutschen Buchmarkt selten, dabei können Kinder sich hier direkt wiedererkennen.",
+      "price_display": "10,00 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase2_1_all-die-sachen-die-wir-machen_rqpbdm.jpg",
+      "reifegrad": "1_früh",
+      "gebraucht": false
+    },
+    "alternative_1": {
+      "book_id": "komm-wir-fahren-zug",
+      "titel": "Komm, wir fahren Zug",
+      "beschreibung": "Ein aktives Pappbilderbuch mit großen Schiebern für Kinderhände. Zug fahren gehört zu den Themen, die nie aus der Mode kommen – und die großen Schieber laden zum Mitmachen ein statt nur zuzuschauen.",
+      "price_display": "14,00 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase2_2_komm-wir-fahren-zug_h111ny.jpg",
+      "reifegrad": "2_mittel",
+      "gebraucht": false
+    },
+    "alternative_2": {
+  "book_id": "feuerwehr-wimmelbuch",
+  "titel": "Feuerwehr Wimmelbuch - Das große Bilderbuch ab 2 Jahre",
+  "beschreibung": "Ein Feuerwehr-Wimmelbuch ohne überfordernd viel: Auf der ersten Doppelseite werden ein paar Figuren und Fahrzeuge vorgestellt, die man dann auf den folgenden Seiten wiederfindet. Dadurch kann man gezielt suchen statt sich in zu vielen Details zu verlieren – gut geeignet auch für Kinder, die gerade erst anfangen, Wimmelbilder zu entdecken.",
+  "price_display": "9,95 EUR",
+  "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1786970779/phase2_3_feuerwehr-wimmelbuch_qkwyso.jpg",
+  "reifegrad": "3_spät",
+  "gebraucht": false
+    }
+},
+  "phase5": {
+    "hauptbuch": {
+      "book_id": "michel-aus-loenneberga",
+      "titel": "Michel aus Lönneberga",
+      "beschreibung": "Ein Junge mit ausgesprochen eigenem Kopf, der andauernd neue, wilde Ideen hat. Ein echter, menschlicher Charakter mit Ecken und Kanten – genau die Art Figur, die im Gedächtnis bleibt. Der Text ist deutlich umfangreicher als bei den anderen Büchern hier, was mehr Konzentration verlangt – lässt sich aber gut in mehreren Etappen vorlesen, Abend für Abend ein Stück weiter.",
+      "price_display": "15,00 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase5_3_michel-aus-loenneberga_vrvrnz.jpg",
+      "reifegrad": "3_spät",
+      "gebraucht": false
+    },
+    "alternative_1": {
+      "book_id": "ich-und-meine-gefuehle",
+      "titel": "Ich und meine Gefühle",
+      "beschreibung": "Das Buch ist mittlerweile in der 6. Auflage – seit 2011 im Programm und offensichtlich zeitlos. Große, klare Illustrationen zeigen die Gefühlswelt eines Kindes, ohne sie in Tierfiguren zu verpacken oder in vielen Sätzen zu erklären – das Gefühl zeigt sich vor allem im Bild, dazu jeweils nur ein kurzer Text. Mir gefällt dieser pragmatische, direkte Zugang zu einem Thema, das in Kinderbüchern schnell überladen wirkt.",
+      "price_display": "10,00 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase5_1_ich-und-meine-gefuehle_lx9hta.jpg",
+      "reifegrad": "1_früh",
+      "gebraucht": true
+    },
+    "alternative_2": {
+      "book_id": "die-sonne-nervt",
+      "titel": "Die Sonne nervt",
+      "beschreibung": "Lena kann die Sonne nicht ausstehen – wegen ihr muss sie sich eincremen, und das Eis schmilzt viel zu schnell. Dann kommt die Sonnenfinsternis: Es wird dunkler und dunkler, bis die Strahlen langsam zurückkommen und Lenas Nase kitzeln. Erzählt aus Lenas eigener Perspektive, erklärt das Buch nebenbei, was bei einer Sonnenfinsternis passiert. Am Ende hat sich für Lena etwas verschoben – die Sonne, die sie eben noch nervte, sieht sie plötzlich mit anderen Augen.",
+      "price_display": "15,00 EUR",
+      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase5_2_die-sonne-nervt_ckgxvq.jpg",
+      "reifegrad": "2_mittel",
+      "gebraucht": false
+    }
+  }
+}
