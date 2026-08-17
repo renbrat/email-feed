@@ -48,14 +48,13 @@
       "gebraucht": false
     },
     "alternative_2": {
-      "book_id": "wir-fahren-weg-ferien-wimmelbuch",
-      "titel": "Wir fahren weg! Das Ferien-Wimmelbuch",
-      "beschreibung": "Thematisch passend zum Sommer: ein Wimmelbuch rund um den Familienurlaub, mit vielen Details zum Entdecken und ganz unterschiedlichen Familien. Wimmelbücher in dieser Komplexität funktionieren aus meiner Erfahrung erst richtig, wenn Kinder anfangen, Zusammenhänge zu suchen statt nur Bilder anzuschauen – deshalb würde ich es eher für ein Kind empfehlen, das in dieser Phase schon etwas weiter ist.",
-      "price_display": "14,00 EUR",
-      "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/phase2_3_wir-fahren-weg-ferien-wimmelbuch_tto5e9.jpg",
-      "reifegrad": "3_spät",
-      "gebraucht": false
-    }
+  "book_id": "feuerwehr-wimmelbuch",
+  "titel": "Feuerwehr Wimmelbuch - Das große Bilderbuch ab 2 Jahre",
+  "beschreibung": "Ein Feuerwehr-Wimmelbuch ohne überfordernd viel: Auf der ersten Doppelseite werden ein paar Figuren und Fahrzeuge vorgestellt, die man dann auf den folgenden Seiten wiederfindet. Dadurch kann man gezielt suchen statt sich in zu vielen Details zu verlieren – gut geeignet auch für Kinder, die gerade erst anfangen, Wimmelbilder zu entdecken.",
+  "price_display": "9,95 EUR",
+  "image_url": "https://res.cloudinary.com/vrauq9zv/image/upload/v1786970779/phase2_3_feuerwehr-wimmelbuch_qkwyso.jpg",
+  "reifegrad": "3_spät",
+  "gebraucht": false
   },
   "phase5": {
     "hauptbuch": {
